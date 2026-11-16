@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "Pinterest",
+      "urlPattern": "pinterest.",
+      "searchUrl": "https://www.pinterest.com/search/pins/?q={term}"
+    }
+  ],
+  "file": "pinterest.js"
+}
